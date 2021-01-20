@@ -1,0 +1,16 @@
+﻿The best model out of all we tried out is the Naive Bayes model.
+Classifier Name
+	Accuracy
+	F1-Score
+	Precision
+	Recall
+	Naive Bayes
+	58
+	51
+	51
+	52
+	
+
+We used the MultinomialNB classifier in the scikit-learn library. 
+Hyperparameters
+Alpha value used = 1
